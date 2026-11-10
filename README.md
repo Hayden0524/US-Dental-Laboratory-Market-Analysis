@@ -118,6 +118,7 @@ For further details, refer to the methodology and analysis reports.
 
 ## 9. Tools
 
+- SQL
 - Python
 - Pandas
 - Excel
