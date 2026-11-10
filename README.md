@@ -106,7 +106,7 @@ For detailed source information, refer to [Data Sources](Data_Sources.md).
 | [Data Sources](Data_Sources.md) | Original data sources and coverage |
 | [Methodology](Methodology.md) | Analytical framework and methods |
 | [Metric and Data Register](Metric_and_Data_Register.md) | Metric definitions, variables, and calculations |
-| [County Analysis Scope and Limitations](County_Analysis_Scope_and_Limitations.md) | County-level analysis scope and data limitations |
+| [County Analysis Scope and Limitations](data/Analysis/County/County_Analysis_Scope_and_Limitation.md) | County-level analysis scope and data limitations |
 
 ## 8. Limitations
 
