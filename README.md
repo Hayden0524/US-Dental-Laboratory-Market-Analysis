@@ -1,8 +1,8 @@
 # U.S. Dental Laboratory Market Analysis
 
-[View Interactive Dashboard](https://public.tableau.com/app/profile/hyedo.lee/viz/US_Dental_Laboratory_Market_v03/00_US_Market_OverviewVer_2?publish=yes)
+[View Interactive Dashboard]<a href="https://public.tableau.com/app/profile/hyedo.lee/viz/US_Dental_Laboratory_Market_v03/00_US_Market_OverviewVer_2?publish=yes" target="_blank" rel="noopener noreferrer">View Interactive Dashboard ↗</a>
 
-[Healthcare Market Research Resume](Resume/HyeDo_Lee_Healthcare_Market_Research_Resume.docx) | [Supply Chain & Operations Resume](Resume/HyeDo_Lee_Supply_Chain_Operations_Resume_Draft.docx)
+[Healthcare Market Research Resume](Resume/HyeDo_Lee_Healthcare_Market_Research_Resume.pdf) | [Supply Chain & Operations Resume](Resume/HyeDo_Lee_Supply_Chain_Operations_Resume_Draft.pdf)
 
 ### Where Should We Open a Dental Laboratory?
 
