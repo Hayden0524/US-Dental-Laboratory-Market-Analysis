@@ -83,7 +83,7 @@ For detailed source information, refer to [Data Sources](Data_Sources.md).
 ## 6. Repository Structure
 
 ```text
-.
+
 ├── data/
 │   ├── Analysis/
 │   │   ├── State/
@@ -93,7 +93,6 @@ For detailed source information, refer to [Data Sources](Data_Sources.md).
 ├── Data_Sources.md
 ├── Methodology.md
 ├── Metric_and_Data_Register.md
-├── County_Analysis_Scope_and_Limitations.md
 └── README.md
 ```
 
