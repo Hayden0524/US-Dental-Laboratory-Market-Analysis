@@ -112,7 +112,6 @@ Additional information is available in Data Sources.
 │   │   └── County/
 │   ├── State/
 │   └── County/
-│
 ├── Data_Sources.md
 ├── Methodology.md
 ├── Metric_and_Data_Register.md
