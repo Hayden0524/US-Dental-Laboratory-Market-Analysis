@@ -105,6 +105,7 @@ Additional information is available in Data Sources.
 
 6. Repository Structure
 
+```text
 .
 ├── data/
 │   ├── Analysis/
@@ -117,6 +118,7 @@ Additional information is available in Data Sources.
 ├── Metric_and_Data_Register.md
 ├── County_Analysis_Scope_and_Limitations.md
 └── README.md
+```
 
 Note: The structure above highlights the main project directories and documentation. Refer to the repository for the complete file listing.
 
